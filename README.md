@@ -10,17 +10,17 @@ O layout desta aplicação foi fornecido pela organização [Cubos Academy](http
 
 Para executar o projeto localmente, siga os passos abaixo:
 
-1. Clone o repositório para sua máquina local
+  1. Clone o repositório para sua máquina local
 
 git clone https://github.com/Valim557/Aplicacao-de-listagem-de-filmes
 
 
-2. Navegue até o diretório raiz do projeto
+  2. Navegue até o diretório raiz do projeto
 
 cd .\Aplicacao-de-listagem-de-filmes\
 
 
-3. Abra o arquivo index.html em seu navegador
+  3. Abra o arquivo index.html em seu navegador
 
 
 
