@@ -1,6 +1,6 @@
 # Cubos Flix
 
-![Cubox Flix Banner]([/assets/readme-github])
+![Cubox Flix Banner]([./assets/readme-github])
 
 Neste projeto eu criei uma aplicação web onde consome uma API de filmes e exibe informações sobre os filmes, como classificação, descrição imagem do filme e cartaz. É possível clicar em um filme para ver mais detalhes.
 
