@@ -1,10 +1,10 @@
 # Cubos Flix
 
-![Cubox Flix Banner](https://uploaddeimagens.com.br/imagens/uMtrXqk)
+![Cubox Flix Banner]([https://uploaddeimagens.com.br/imagens/uMtrXqk](https://uploaddeimagens.com.br/images/004/379/498/original/download.png?1678146460))
 
 Neste projeto eu criei uma aplicação web onde consome uma API de filmes e exibe informações sobre os filmes, como classificação, descrição imagem do filme e cartaz. É possível clicar em um filme para ver mais detalhes.
 
-O layout desta aplicação foi fornecido pela organização ![Cubos Academy](https://github.com/cubos-academy)
+O layout desta aplicação foi fornecido pela organização [Cubos Academy](/assets/readme.github)
 
 ## Instalação
 
